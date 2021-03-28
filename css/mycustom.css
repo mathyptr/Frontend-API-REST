@@ -1,0 +1,9 @@
+.ui-widget-header {
+    border: 1px solid lightblue;
+    background: none;
+    background-color: lightblue !important;
+}
+
+div{
+	margin:auto;
+}
